@@ -4,13 +4,13 @@
 
 ## 项目展示
 
-![11](C:\Users\14685\Desktop\11.png)
+![11](https://github.com/15920384501/NeteaseCloudMusic/blob/master/img-stroage/11.png)
 
-![22](C:\Users\14685\Desktop\22.png)
+![22](https://github.com/15920384501/NeteaseCloudMusic/blob/master/img-stroage/22.png)
 
-![33](C:\Users\14685\Desktop\33.png)
+![33](https://github.com/15920384501/NeteaseCloudMusic/blob/master/img-stroage/33.png)
 
-![44](C:\Users\14685\Desktop\44.png)
+![44](https://github.com/15920384501/NeteaseCloudMusic/blob/master/img-stroage/55.png)
 
 ## Project setup
 
