@@ -9,9 +9,10 @@
 ![22](https://github.com/15920384501/NeteaseCloudMusic/blob/master/img-stroage/22.png)
 ### 播放页面：
 ![33](https://github.com/15920384501/NeteaseCloudMusic/blob/master/img-stroage/33.png)
-### 歌词页面
+### 歌手列表
 ![44](https://github.com/15920384501/NeteaseCloudMusic/blob/master/img-stroage/55.png)
-更多详细信息不一一展示了....
+
+更多详细页面请查看项目展示文件....
 ## Project setup
 
 ```
