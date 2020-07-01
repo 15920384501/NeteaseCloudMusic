@@ -1,6 +1,6 @@
 # NeteaseCloudMusic 
 
-项目说明：该项目是仿IOS端网易云音乐的vue单页面程序，通过借助[NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) 请求数据，具体数据与网易云音乐同步，具有播放音乐、搜索、控制音乐进度等功能，可实现用户的基本需求。
+项目说明：该项目是仿IOS端网易云音乐的vue单页面程序，通过借助[NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) 请求数据，具体数据与网易云音乐同步，具有播放音乐、搜索、控制音乐进度等功能，可实现用户的基本需求。使用vue+vant+swiper+better-scroll+axios+vue-cookie实现项目功能。
 
 ## 项目展示
 ### 首页页面：
